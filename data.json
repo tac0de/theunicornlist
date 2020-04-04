@@ -1,0 +1,3627 @@
+[
+  {
+    "company": "Toutiao (Bytedance)",
+    "valuation": "$75",
+    "date": "4/7/2017",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group"
+  },
+  {
+    "company": "Didi Chuxing\n\t  ",
+    "valuation": "$56",
+    "date": "12/31/2014",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Matrix Partners, Tiger\n\t  Global Management, Softbank Corp.,"
+  },
+  {
+    "company": "Stripe",
+    "valuation": "$35.25",
+    "date": "1/23/2014",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Khosla Ventures, LowercaseCapital, capitalG"
+  },
+  {
+    "company": "Airbnb",
+    "valuation": "$35",
+    "date": "7/26/2011",
+    "country": "United States",
+    "industry": "Travel",
+    "investor": "General Catalyst Partners,\n\t  Andreessen Horowitz, ENIAC Ventures"
+  },
+  {
+    "company": "SpaceX",
+    "valuation": "$33.3",
+    "date": "12/1/2012",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Founders Fund, Draper\n\t  Fisher Jurvetson, Rothenberg Ventures"
+  },
+  {
+    "company": "Kuaishou",
+    "valuation": "$18",
+    "date": "1/1/2015",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Morningside Venture Capital, Sequoia Capital, Baidu"
+  },
+  {
+    "company": "One97 Communications",
+    "valuation": "$16",
+    "date": "5/12/2015",
+    "country": "India",
+    "industry": "Fintech",
+    "investor": "Intel Capital, Sapphire\n\t  Ventures, Alibaba Group"
+  },
+  {
+    "company": "Epic Games",
+    "valuation": "$15",
+    "date": "10/26/2018",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Tencent Holdings, KKR, Smash Ventures"
+  },
+  {
+    "company": "DJI Innovations",
+    "valuation": "$15",
+    "date": "5/6/2015",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "Accel Partners, Sequoia\n\t  Capital"
+  },
+  {
+    "company": "Grab",
+    "valuation": "$14.3",
+    "date": "12/4/2014",
+    "country": "Singapore",
+    "industry": "Auto & transportation",
+    "investor": "GGV Capital, Vertex Venture\n\t  Holdings, Softbank Group"
+  },
+  {
+    "company": "Beike Zhaofang",
+    "valuation": "$14",
+    "date": "7/18/2019",
+    "country": "China",
+    "industry": "Internet software & services",
+    "investor": "Tencent Holdings, Hillhouse Capital Management, Source Code Capital"
+  },
+  {
+    "company": "DoorDash",
+    "valuation": "$12.6",
+    "date": "3/1/2018",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Softbank Group, Sequoia Capital, Khosla Ventures"
+  },
+  {
+    "company": "Snowflake Computing",
+    "valuation": "$12.4",
+    "date": "1/25/2018",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Redpoint Ventures,Iconiq Capital, Madrona Venture Group"
+  },
+  {
+    "company": "Palantir Technologies",
+    "valuation": "$12.18",
+    "date": "5/5/2011",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "RRE Ventures, Founders\n\t  Fund, In-Q-Tel"
+  },
+  {
+    "company": "JUUL Labs",
+    "valuation": "$12",
+    "date": "12/20/2017",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Tiger Global Management"
+  },
+  {
+    "company": "Bitmain Technologies",
+    "valuation": "$12",
+    "date": "7/6/2018",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "Coatue Management, Sequoia Capital China, IDG Capital"
+  },
+  {
+    "company": "Samumed",
+    "valuation": "$12",
+    "date": "8/6/2018",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Vickers Venture Partners, IKEA GreenTech"
+  },
+  {
+    "company": "Wish",
+    "valuation": "$11.2",
+    "date": "5/18/2015",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Founders Fund, GGV Capital, Digital Sky Technologies"
+  },
+  {
+    "company": "Global Switch",
+    "valuation": "$11.08",
+    "date": "12/22/2016",
+    "country": "United Kingdom",
+    "industry": "Hardware",
+    "investor": "Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group"
+  },
+  {
+    "company": "Go-Jek",
+    "valuation": "$10",
+    "date": "8/4/2016",
+    "country": "Indonesia",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Formation Group, Sequoia Capital India, Warburg Pincus"
+  },
+  {
+    "company": "Nubank",
+    "valuation": "$10",
+    "date": "3/1/2018",
+    "country": "Brazil",
+    "industry": "Fintech",
+    "investor": "Sequoia Capital, Redpoint e.ventures, Kaszek Ventures"
+  },
+  {
+    "company": "Oyo Rooms",
+    "valuation": "$10",
+    "date": "9/25/2018",
+    "country": "India",
+    "industry": "Travel",
+    "investor": "SoftBank Group, Sequoia Capital India,Lightspeed India Partners"
+  },
+  {
+    "company": "Ripple",
+    "valuation": "$10",
+    "date": "12/20/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "IDG Capital, Venture51, Lightspeed Venture Partners"
+  },
+  {
+    "company": "Coupang",
+    "valuation": "$9",
+    "date": "5/28/2014",
+    "country": "South Korea",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Sequoia Capital, Founder\n\t  Collective, Wellington Management"
+  },
+  {
+    "company": "Guazi (Chehaoduo)",
+    "valuation": "$9",
+    "date": "3/12/2016",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Sequoia Capital China, GX Capital"
+  },
+  {
+    "company": "Coinbase",
+    "valuation": "$8",
+    "date": "8/10/2017",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Y Combinator, Union Square Ventures, DFJ Growth"
+  },
+  {
+    "company": "BYJU'S",
+    "valuation": "$8",
+    "date": "7/25/2017",
+    "country": "India",
+    "industry": "Edtech",
+    "investor": "Tencent Holdings, Lightspeed India Partners, Sequoia Capital India"
+  },
+  {
+    "company": "Yuanfudao",
+    "valuation": "$7.8",
+    "date": "5/31/2017",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "Tencent Holdings, Warbug Pincus, IDG Capital"
+  },
+  {
+    "company": "Instacart",
+    "valuation": "$7.6",
+    "date": "12/30/2014",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Khosla Ventures, Kleiner\n\t  Perkins Caufield & Byers, Collaborative Fund"
+  },
+  {
+    "company": "Robinhood",
+    "valuation": "$7.6",
+    "date": "4/26/2017",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Google Ventures, Andreessen Horowitz, DST Global"
+  },
+  {
+    "company": "SenseTime",
+    "valuation": "$7.5",
+    "date": "7/11/2017",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Star VC, IDG Capital, Infore Capital, Alibaba Group"
+  },
+  {
+    "company": "Snapdeal",
+    "valuation": "$7",
+    "date": "5/21/2014",
+    "country": "India",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "SoftBankGroup, Blackrock, Alibaba Group"
+  },
+  {
+    "company": "Roivant Sciences",
+    "valuation": "$7",
+    "date": "11/13/2018",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "SoftBankGroup, Founders Fund"
+  },
+  {
+    "company": "Tokopedia",
+    "valuation": "$7",
+    "date": "12/12/2018",
+    "country": "Indonesia",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "SoftBankGroup, Alibaba Group, Sequoia Capital India"
+  },
+  {
+    "company": "Argo AI",
+    "valuation": "$7",
+    "date": "07/12/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Volkswagen Group, Ford Autonomous Vehicles"
+  },
+  {
+    "company": "Automation Anywhere",
+    "valuation": "$6.8",
+    "date": "7/2/2018",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "General Atlantic, Goldman Sachs, New Enterprise Associates"
+  },
+  {
+    "company": "Tanium",
+    "valuation": "$6.7",
+    "date": "3/31/2015",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Andreessen Horowitz,\n\t  Nor-Cal Invest, TPG Growth"
+  },
+  {
+    "company": "Ziroom",
+    "valuation": "$6.6",
+    "date": "1/17/2018",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Sequoia Capital China, Warburg Pincus, General Catalyst"
+  },
+  {
+    "company": "UiPath",
+    "valuation": "$6.4",
+    "date": "3/2/2018",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Accel, capitalG, Earlybrid Venture Capital, Seedcamp"
+  },
+  {
+    "company": "Compass",
+    "valuation": "$6.4",
+    "date": "8/31/2016",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Founders Fund, Thrive Capital, Wellington Management"
+  },
+  {
+    "company": "Magic Leap",
+    "valuation": "$6.3",
+    "date": "10/21/2014",
+    "country": "United States",
+    "industry": "Hardware",
+    "investor": "Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz"
+  },
+  {
+    "company": "Samsara Networks",
+    "valuation": "$6.3",
+    "date": "3/22/2018",
+    "country": "United States",
+    "industry": "Hardware",
+    "investor": "Andreessen Horowitz, General Catalyst"
+  },
+  {
+    "company": "Ola Cabs",
+    "valuation": "$6.32",
+    "date": "10/27/2014",
+    "country": "India",
+    "industry": "Auto & transportation",
+    "investor": "Accel Partners, SoftBank Group, Sequoia Capital"
+  },
+  {
+    "company": "Databricks",
+    "valuation": "$6.2",
+    "date": "2/5/2019",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Andreessen Horowitz, New Enterprise Associates, Battery Ventures"
+  },
+  {
+    "company": "Manbang Group",
+    "valuation": "$6",
+    "date": "4/24/2018",
+    "country": "China",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Softbank Group, CapitalG"
+  },
+  {
+    "company": "Unity Technologies",
+    "valuation": "$6",
+    "date": "7/13/2016",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Sequoia Capital, iGlobe Partners, DFJ Growth"
+  },
+  {
+    "company": "Revolut",
+    "valuation": "$6",
+    "date": "4/26/2018",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "index Ventures, DST Global, Ribbit Capital"
+  },
+  {
+    "company": "Lianjia (Homelink)",
+    "valuation": "$5.8",
+    "date": "4/8/2016",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Tencent, Baidu, Huasheng Capital"
+  },
+  {
+    "company": "Chime",
+    "valuation": "$5.8",
+    "date": "3/5/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Forerunner Ventures, Crosslink Capital, Homebrew"
+  },
+  {
+    "company": "EasyHome",
+    "valuation": "$5.7",
+    "date": "2/12/2018",
+    "country": "China",
+    "industry": "Consumer & retail",
+    "investor": "Alibaba Group, Boyu Capital, Borui Capital"
+  },
+  {
+    "company": "Vice Media",
+    "valuation": "$5.7",
+    "date": "8/17/2013",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Technology Crossover Ventures, A&E Television Networks"
+  },
+  {
+    "company": "Intarcia\n\t  Therapeutics",
+    "valuation": "$5.5",
+    "date": "4/1/2014",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "New Enterprise Associates,\n\t  New Leaf Venture Partners, Charter Venture Capital"
+  },
+  {
+    "company": "Klarna",
+    "valuation": "$5.5",
+    "date": "12/12/2011",
+    "country": "Sweden",
+    "industry": "Fintech",
+    "investor": "Institutional Venture\n\t  Partners, Sequoia Capital, General Atlantic"
+  },
+  {
+    "company": "GuaHao (We Doctor)",
+    "valuation": "$5.5",
+    "date": "9/22/2015",
+    "country": "China",
+    "industry": "Health",
+    "investor": "Tencent, Morningside Group"
+  },
+  {
+    "company": "HashiCorp",
+    "valuation": "$5.1",
+    "date": "11/1/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Redpoint Ventures, True Ventures, Mayfield Fund"
+  },
+  {
+    "company": "United Imaging Healthcare",
+    "valuation": "$5",
+    "date": "9/14/2017",
+    "country": "China",
+    "industry": "Health",
+    "investor": "China Life Insurance, China Development Bank Capital, CITIC Securities International"
+  },
+  {
+    "company": "UBTECH Robotics",
+    "valuation": "$5",
+    "date": "7/26/2016",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "CDH Investments, Goldstone Investments, Qiming Venture Partners"
+  },
+  {
+    "company": "Krafton Game Union",
+    "valuation": "$5",
+    "date": "8/9/2018",
+    "country": "South Korea",
+    "industry": "Other",
+    "investor": "Tencent Holdings, Stonebridge Capital, IMM Investment"
+  },
+  {
+    "company": "Machine Zone",
+    "valuation": "$5",
+    "date": "7/16/2014",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "J.P. Morgan Chase & Co., Menlo Ventures"
+  },
+  {
+    "company": "Royole Corporation",
+    "valuation": "$5",
+    "date": "8/18/2015",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "Warmsun Holding, IDG Capital Partners"
+  },
+  {
+    "company": "Hello TransTech",
+    "valuation": "$5",
+    "date": "6/01/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Ant Financial Services Group, GGV Capital"
+  },
+  {
+    "company": "Tempus",
+    "valuation": "$5",
+    "date": "3/21/2018",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "New Enterprise Associates, T. Rowe Associates, Lightbank"
+  },
+  {
+    "company": "Toast",
+    "valuation": "$4.9",
+    "date": "7/10/2018",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Bessemer Venture Partners, Tiger Global Management, Google Ventures"
+  },
+  {
+    "company": "Meizu Technology",
+    "valuation": "$4.58",
+    "date": "7/23/2014",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "Telling Telecommunication Holding Co., Alibaba Group"
+  },
+  {
+    "company": "Fanatics",
+    "valuation": "$4.5",
+    "date": "6/6/2012",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "SoftBank Group, Andreessen Horowitz, Temasek Holdings"
+  },
+  {
+    "company": "SoFi",
+    "valuation": "$4.5",
+    "date": "2/3/2015",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Baseline Ventures, DCM Ventures, Institutional Venture Partners"
+  },
+  {
+    "company": "Vipkid",
+    "valuation": "$4.5",
+    "date": "8/23/2017",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "Sequoia Capital China, Tencent Holdings, Sinovation Ventures"
+  },
+  {
+    "company": "Ginkgo BioWorks",
+    "valuation": "$4.2",
+    "date": "12/14/2017",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Y Combinator, Data Collective, MassVentures"
+  },
+  {
+    "company": "Yello\n\t  Mobile",
+    "valuation": "$4",
+    "date": "11/11/2014",
+    "country": "South Korea",
+    "industry": "Mobile & telecommunications",
+    "investor": "Formation 8"
+  },
+  {
+    "company": "Houzz",
+    "valuation": "$4",
+    "date": "9/30/2014",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "New Enterprise Associates,\n\t  Sequoia Capital, Comcast Ventures"
+  },
+  {
+    "company": "Face++ (Megvii)",
+    "valuation": "$4",
+    "date": "10/31/2017",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company"
+  },
+  {
+    "company": "Roblox",
+    "valuation": "$4",
+    "date": "9/4/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Atlos Ventures, Index Ventures, First Round Capital"
+  },
+  {
+    "company": "Impossible Foods",
+    "valuation": "$4",
+    "date": "5/13/2019",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Khosla Ventures, Horizons Ventures, Temasek Holdings"
+  },
+  {
+    "company": "TripActions",
+    "valuation": "$4",
+    "date": "11/8/2018",
+    "country": "United States",
+    "industry": "Travel",
+    "investor": "Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures"
+  },
+  {
+    "company": "XPeng Motors",
+    "valuation": "$4",
+    "date": "8/2/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Morningside Venture Capital, Foxconn Technology Company, Alibaba Group"
+  },
+  {
+    "company": "OpenDoor Labs",
+    "valuation": "$3.8",
+    "date": "11/30/2016",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Norwest Venture Partners, New Enterprise Associates, Khosla Ventures"
+  },
+  {
+    "company": "Gusto",
+    "valuation": "$3.8",
+    "date": "12/18/2015",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers"
+  },
+  {
+    "company": "Auto1 Group",
+    "valuation": "$3.54",
+    "date": "8/3/2015",
+    "country": "Germany",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Digital Sky Technologies, Piton Capital, DN Capital, SoftBank Group"
+  },
+  {
+    "company": "Otto Bock HealthCare",
+    "valuation": "$3.5",
+    "date": "6/24/2017",
+    "country": "Germany",
+    "industry": "Health",
+    "investor": "EQT Partners"
+  },
+  {
+    "company": "Arrival",
+    "valuation": "$3.91",
+    "date": "1/15/2020",
+    "country": "United Kingdom",
+    "industry": "Auto & transportation",
+    "investor": "Kia Motors Company, Hyundai Motor Company"
+  },
+  {
+    "company": "Indigo Agriculture",
+    "valuation": "$3.5",
+    "date": "9/26/2017",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co."
+  },
+  {
+    "company": "Greensill",
+    "valuation": "$3.5",
+    "date": "7/16/2018",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "SoftBank Group, General Atlantic"
+  },
+  {
+    "company": "TransferWise",
+    "valuation": "$3.5",
+    "date": "1/26/2015",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "IA Ventures, Index, Ventures, SV Angel"
+  },
+  {
+    "company": "N26",
+    "valuation": "$3.5",
+    "date": "1/10/2019",
+    "country": "Germany",
+    "industry": "Fintech",
+    "investor": "Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures"
+  },
+  {
+    "company": "Root Insurance",
+    "valuation": "$3.5",
+    "date": "8/22/2018",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Tiger Global Management, Ribbit Capital, Redpoint Ventures"
+  },
+  {
+    "company": "Rivian",
+    "valuation": "$3.5",
+    "date": "9/10/2019",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "Amazon, Ford Motor Company, Cox Automotive"
+  },
+  {
+    "company": "Freshworks",
+    "valuation": "$3.5",
+    "date": "7/31/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Accel, Tiger Global Management, capitalG"
+  },
+  {
+    "company": "Youxia Motors",
+    "valuation": "$3.35",
+    "date": "4/2/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "China Environmental Protection Industry, China Fortune Ocean"
+  },
+  {
+    "company": "Cloudwalk",
+    "valuation": "$3.32",
+    "date": "10/8/2018",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Oriza Holdings, Guangdong Technology Financial Group"
+  },
+  {
+    "company": "Rubrik",
+    "valuation": "$3.3",
+    "date": "4/28/2017",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Greylock Partners, Lightspeed Venture Partners, Khosla Ventures"
+  },
+  {
+    "company": "Swiggy",
+    "valuation": "$3.3",
+    "date": "6/21/2018",
+    "country": "India",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Accel India, SAIF Partners, Norwest Venture Partners"
+  },
+  {
+    "company": "The Hut Group",
+    "valuation": "$3.25",
+    "date": "08/13/2017",
+    "country": "United Kingdom",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "KKR, Old Mutual Global Investors, Artemis Investment Management"
+  },
+  {
+    "company": "GRAIL",
+    "valuation": "$3.2",
+    "date": "3/1/2017",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Kleiner Perkins Caufield & Byers, Amazon, Merck & Co."
+  },
+  {
+    "company": "Oscar\n\t  Health",
+    "valuation": "$3.2",
+    "date": "4/20/2015",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "BoxGroup, Formation8,\n\t  Khosla Ventures"
+  },
+  {
+    "company": "Zoox",
+    "valuation": "$3.2",
+    "date": "5/27/2016",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "AID Partners, Draper Fisher Jurvetson"
+  },
+  {
+    "company": "Flexport",
+    "valuation": "$3.2",
+    "date": "4/30/2018",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Bloomberg Beta, Founders Fund, First Round Capital"
+  },
+  {
+    "company": "Canva",
+    "valuation": "$3.2",
+    "date": "01/08/2018",
+    "country": "Australia",
+    "industry": "Internet software & services",
+    "investor": "Sequoia Capital China, Blackbird Ventures, Matrix Partners"
+  },
+  {
+    "company": "Automattic",
+    "valuation": "$3",
+    "date": "5/27/2013",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Insight Venture Partners,\n\t  Lowercase Capital, Polaris Partners"
+  },
+  {
+    "company": "VANCL",
+    "valuation": "$3",
+    "date": "12/14/2010",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Ceyuan Ventures, QiMing\n\t  Venture Partners, Temasek Holdings"
+  },
+  {
+    "company": "BGL Group",
+    "valuation": "$3",
+    "date": "11/24/2017",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "CPP Investment Board"
+  },
+  {
+    "company": "Circle Internet Financial",
+    "valuation": "$3",
+    "date": "5/15/2018",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "General Catalyst, Digital Currency Group, Accel"
+  },
+  {
+    "company": "Xiaohongshu",
+    "valuation": "$3",
+    "date": "3/31/2016",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "GGV Capital, ZhenFund, Tencent"
+  },
+  {
+    "company": "SouChe Holdings",
+    "valuation": "$3",
+    "date": "11/1/2017",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund"
+  },
+  {
+    "company": "Niantic",
+    "valuation": "$4",
+    "date": "11/24/2017",
+    "country": "United States",
+    "industry": "Mobile & telecommunications\n",
+    "investor": "Nintendo, Google, Pokemon Company International, Spark Capital"
+  },
+  {
+    "company": "Horizon Robotics",
+    "valuation": "$3",
+    "date": "2/27/2019",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Hillhouse Capital Management, Linear Venture, Morningside Venture Capital"
+  },
+  {
+    "company": "UCommune",
+    "valuation": "$3",
+    "date": "1/18/2017",
+    "country": "China",
+    "industry": "Other",
+    "investor": "Ant Financial Services Group, Dahong Group, Sequoia Capital China"
+  },
+  {
+    "company": "Netskope",
+    "valuation": "$3",
+    "date": "11/13/2018",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Lightspeed Venture Partners, Social Capital, Accel"
+  },
+  {
+    "company": "Pony.ai",
+    "valuation": "$3",
+    "date": "7/11/2018",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Sequoia Capital China, IDG Capital, DCM Ventures"
+  },
+  {
+    "company": "Lixiang Automotive",
+    "valuation": "$2.93",
+    "date": "6/28/2019",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Future Capital Discovery Fund, Shougang Fund, BlueRun Ventures"
+  },
+  {
+    "company": "Affirm",
+    "valuation": "$2.9",
+    "date": "12/11/2017",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Andreessen Horowitz, Khosla Ventures, Singapore Wealth Fund"
+  },
+  {
+    "company": "OVO",
+    "valuation": "$2.9",
+    "date": "3/14/2019",
+    "country": "Indonesia",
+    "industry": "Fintech",
+    "investor": "Grab, Tokopedia, Tokyo Century Corporation"
+  },
+  {
+    "company": "Yixia",
+    "valuation": "$2.9",
+    "date": "11/24/2015",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures"
+  },
+  {
+    "company": "Meicai",
+    "valuation": "$2.8",
+    "date": "1/11/2018",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Tiger Global Management, Blue Lake Capital, ZhenFund"
+  },
+  {
+    "company": "GoodRx",
+    "valuation": "$2.8",
+    "date": "8/6/2018",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Silver Lake Partners, SV Angel, Upfront Ventures"
+  },
+  {
+    "company": "GitLab",
+    "valuation": "$2.77",
+    "date": "9/19/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Google Ventures, ICONIQ Capital, Khosla Ventures"
+  },
+  {
+    "company": "Convoy",
+    "valuation": "$2.75",
+    "date": "9/21/2018",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Greylock Partners, capitalG, Y Combinator"
+  },
+  {
+    "company": "Nuro",
+    "valuation": "$2.7",
+    "date": "2/11/2019",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "SoftBank Group, Greylock Partners, Gaorong Capital"
+  },
+  {
+    "company": "OneTrust",
+    "valuation": "$2.7",
+    "date": "7/11/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Insight Partners"
+  },
+  {
+    "company": "Wemakeprice",
+    "valuation": "$2.33",
+    "date": "9/9/2015",
+    "country": "South Korea",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "IMM Investment, NXC"
+  },
+  {
+    "company": "Brex",
+    "valuation": "$2.6",
+    "date": "10/5/2018",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "DST Global, Ribbit Capital, Greenoaks Capital Management"
+  },
+  {
+    "company": "Monzo",
+    "valuation": "$2.55",
+    "date": "10/31/2018",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "Passion Capital, Thrive Capital, Orange Digital Ventures"
+  },
+  {
+    "company": "23andMe",
+    "valuation": "$2.5",
+    "date": "7/3/2015",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Google Ventures, New Enterprise Associates, MPM Capital"
+  },
+  {
+    "company": "Vista Global",
+    "valuation": "$2.5",
+    "date": "8/23/2017",
+    "country": "Malta",
+    "industry": "Other",
+    "investor": "Rhone Capital"
+  },
+  {
+    "company": "Zhihu",
+    "valuation": "$2.5",
+    "date": "1/12/2017",
+    "country": "China",
+    "industry": "Internet software & services",
+    "investor": "Tencent Holdings, Sinovation Ventures, Qiming Venture Partners "
+  },
+  {
+    "company": "Confluent",
+    "valuation": "$2.5",
+    "date": "1/23/2019",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Benchmark, Sequoia Capital, Index Ventures"
+  },
+  {
+    "company": "Aihuishou",
+    "valuation": "$2.5",
+    "date": "7/12/2018",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Morningside Ventures, JD.com, Tiantu Capital"
+  },
+  {
+    "company": "Aurora",
+    "valuation": "$2.5",
+    "date": "2/7/2019",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "Index Ventures, Greylock Partners, Lightspeed Venture Partners"
+  },
+  {
+    "company": "Bird Rides",
+    "valuation": "$2.78",
+    "date": "05/29/2018",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "Tusk Ventures, Craft Ventures, Sequoia Capital"
+  },
+  {
+    "company": "BYTON",
+    "valuation": "$2.5",
+    "date": "4/20/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "FAW Group, Tencent Holdings, Tus Holdings"
+  },
+  {
+    "company": "Bukalapak",
+    "valuation": "$2.5",
+    "date": "11/16/2017",
+    "country": "Indonesia",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "500 Startups, Batavia Incubator, Emtek Group"
+  },
+  {
+    "company": "Celonis",
+    "valuation": "$2.5",
+    "date": "6/26/2018",
+    "country": "Germany",
+    "industry": "Data management & analytics",
+    "investor": "Accel, 83North"
+  },
+  {
+    "company": "Cambricon",
+    "valuation": "$2.5",
+    "date": "8/18/2017",
+    "country": "China",
+    "industry": "Artificial intelligence\n",
+    "investor": "Artificial intelligence\n"
+  },
+  {
+    "company": "Lime",
+    "valuation": "$2.4",
+    "date": "7/9/2018",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "Andreessen Horowitz, Coatue Management, Uber"
+  },
+  {
+    "company": "Carbon",
+    "valuation": "$2.4",
+    "date": "12/20/2017",
+    "country": "United States",
+    "industry": "Hardware",
+    "investor": "Google Ventures, Sequoia Capital, Wakefield Group"
+  },
+  {
+    "company": "Postmates",
+    "valuation": "$2.4",
+    "date": "9/18/2018",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Founders Fund, Matrix Partners, Tiger Global Management"
+  },
+  {
+    "company": "YITU Technology",
+    "valuation": "$2.37",
+    "date": "3/8/2018",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Sequoia Capital China, Banyan Capital"
+  },
+  {
+    "company": "Collibra",
+    "valuation": "$2.36",
+    "date": "1/29/2019",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Index Ventures, Battery Ventures, ICONIQ Capital"
+  },
+  {
+    "company": "Dadi Cinema",
+    "valuation": "$3.2",
+    "date": "5/11/2016",
+    "country": "China",
+    "industry": "Other",
+    "investor": "Alibaba Pictures Group"
+  },
+  {
+    "company": "Uptake",
+    "valuation": "$2.3",
+    "date": "10/27/2015",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Revolution, New Enterprise Associates, Caterpillar"
+  },
+  {
+    "company": "OakNorth",
+    "valuation": "$2.3",
+    "date": "10/12/2017",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "Clermont Group, Coltrane Asset Management, Toscafund Asset Management"
+  },
+  {
+    "company": "Udaan",
+    "valuation": "$2.3",
+    "date": "9/3/2018",
+    "country": "India",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "DST Global, Lightspeed Venture Partners, Microsoft ScaleUp"
+  },
+  {
+    "company": "Skydance Media",
+    "valuation": "$2.3",
+    "date": "2/11/2020",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "RedBird Capital Partners, CJ ENM, Tencent Holdings"
+  },
+  {
+    "company": "Zume Pizza",
+    "valuation": "$2.25",
+    "date": "11/1/2018",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Softbank Group, AME Cloud Ventures, SignalFire"
+  },
+  {
+    "company": "FlixBus",
+    "valuation": "$2.25",
+    "date": "7/18/2019",
+    "country": "Germany",
+    "industry": "Auto & transportation",
+    "investor": "Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic"
+  },
+  {
+    "company": "Via Transportation",
+    "valuation": "$2.25",
+    "date": "3/30/2020",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "83North, RiverPark Ventures, Pitango Venture Capital"
+  },
+  {
+    "company": "NuCom Group",
+    "valuation": "$2.2",
+    "date": "2/22/2018",
+    "country": "Germany",
+    "industry": "Other",
+    "investor": "General Atlantic"
+  },
+  {
+    "company": "MINISO Life",
+    "valuation": "$2.2",
+    "date": "9/30/2018",
+    "country": "China",
+    "industry": "Consumer & retail",
+    "investor": "Hillhouse Capital Management, and Tencent Holdings"
+  },
+  {
+    "company": "Viva Republica (Toss)",
+    "valuation": "$2.2",
+    "date": "12/10/2018",
+    "country": "South Korea",
+    "industry": "Fintech",
+    "investor": "Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers"
+  },
+  {
+    "company": "Checkr",
+    "valuation": "$2.2",
+    "date": "9/19/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Y Combinator, Accel, T. Rowe Price"
+  },
+  {
+    "company": "Huaqin Telecom Technology",
+    "valuation": "$2.19",
+    "date": "10/8/2019",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Zhangjiang Haocheng Venture Capital, Walden International, Intel Capital"
+  },
+  {
+    "company": "Zomato",
+    "valuation": "$2.08",
+    "date": "4/10/2015",
+    "country": "India",
+    "industry": "Internet software & services",
+    "investor": "Sequoia Capital, VY Capital"
+  },
+  {
+    "company": "BenevolentAI",
+    "valuation": "$2.1",
+    "date": "6/2/2015",
+    "country": "United Kingdom",
+    "industry": "Artificial intelligence",
+    "investor": "Woodford Investment Management"
+  },
+  {
+    "company": "Nextdoor",
+    "valuation": "$2.1",
+    "date": "3/4/2015",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Benchmark Capital, DAG\nVentures, Insight Venture Partners"
+  },
+  {
+    "company": "Perfect Diary",
+    "valuation": "$2",
+    "date": "9/11/2019",
+    "country": "China",
+    "industry": "Other",
+    "investor": "Sequoia Capital China, Hillhouse Capital Management, CMC Capital Partners"
+  },
+  {
+    "company": "ReNew Power",
+    "valuation": "$2",
+    "date": "2/14/2017",
+    "country": "India",
+    "industry": "Other",
+    "investor": "Goldman Sachs, JERA, Asian Development Bank"
+  },
+  {
+    "company": "Traveloka",
+    "valuation": "$2",
+    "date": "7/28/2017",
+    "country": "Indonesia",
+    "industry": "Travel",
+    "investor": "Global Founders Capital, East Ventures, Expedia Inc."
+  },
+  {
+    "company": "Huimin",
+    "valuation": "$2",
+    "date": "9/5/2016",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Zheshang Venture Capital, GP Capital, Western Capital Management"
+  },
+  {
+    "company": "Zenefits",
+    "valuation": "$2",
+    "date": "5/6/2015",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "SV Angel,  Institutional Venture Partners, Venrock"
+  },
+  {
+    "company": "Avant",
+    "valuation": "$2",
+    "date": "9/30/2015",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "RRE Ventures, Tiger Global, August Capital"
+  },
+  {
+    "company": "Trendy\n\t  Group International",
+    "valuation": "$2",
+    "date": "2/13/2012",
+    "country": "China",
+    "industry": "Consumer & retail",
+    "investor": "L Capital Partners"
+  },
+  {
+    "company": "Deliveroo",
+    "valuation": "$2",
+    "date": "9/25/2017",
+    "country": "United Kingdom",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Accel Partners, General Catalyst, Index Ventures"
+  },
+
+  {
+    "company": "Preferred Networks",
+    "valuation": "$2",
+    "date": "5/17/2018",
+    "country": "Japan",
+    "industry": "Artificial intelligence",
+    "investor": "Toyota Motor Corporation, Mizuho Financial Group, FANUC"
+  },
+  {
+    "company": "Improbable",
+    "valuation": "$2",
+    "date": "5/12/2017",
+    "country": "United Kingdom",
+    "industry": "Other",
+    "investor": "Andreessen Horowitz, SoftBank Group, Temasek Holdings"
+  },
+  {
+    "company": "LegalZoom",
+    "valuation": "$2",
+    "date": "7/31/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "K1 Capital, Francisco Partners, Neuberger Berman"
+  },
+  {
+    "company": "Lemonade",
+    "valuation": "$2",
+    "date": "04/11/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Google Ventures, Thrive Capital, SoftBank Group"
+  },
+  {
+    "company": "Discord",
+    "valuation": "$2",
+    "date": "04/20/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Benchmark, Greylock Partners, Tencent Holdings"
+  },
+  {
+    "company": "Checkout.com",
+    "valuation": "$2",
+    "date": "5/2/2019",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "Insight Partners, DST Global"
+  },
+  {
+    "company": "Marqeta",
+    "valuation": "$2",
+    "date": "5/21/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "83North, Granite Ventures, CommerzVentures"
+  },
+  {
+    "company": "Mafengwo",
+    "valuation": "$2",
+    "date": "5/23/2019",
+    "country": "China",
+    "industry": "Travel",
+    "investor": "Qiming Venture Partners, Capital Today, General Atlantic"
+  },
+  {
+    "company": "Babylon Health",
+    "valuation": "$2",
+    "date": "8/2/2019",
+    "country": "United Kingdom",
+    "industry": "Artificial intelligence",
+    "investor": "Kinnevik, Vostok New Ventures, Public Investment Fund of Saudi Arabia"
+  },
+  {
+    "company": "Tongdun Technology",
+    "valuation": "$2",
+    "date": "10/10/2017",
+    "country": "China",
+    "industry": "Cybersecurity",
+    "investor": "Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co."
+  },
+  {
+    "company": "Nuvei",
+    "valuation": "$2",
+    "date": "12/11/2019",
+    "country": "Canada",
+    "industry": "Other",
+    "investor": "Caisse de depot et placement du Quebec, Novacap Investments, Goldman Sachs"
+  },
+  {
+    "company": "Udemy",
+    "valuation": "$2",
+    "date": "2/19/2020",
+    "country": "United States",
+    "industry": "Edtech",
+    "investor": "MHS Capital, Insight Partners, Norwest Venture Partners"
+  },
+  {
+    "company": "4Paradigm",
+    "valuation": "$2",
+    "date": "12/19/2018",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Sequoia Capital China, China Construction Bank, Bank of China"
+  },
+  {
+    "company": "Oxford Nanopore Technologies",
+    "valuation": "$1.96",
+    "date": "7/21/2015",
+    "country": "United Kingdom",
+    "industry": "Health",
+    "investor": "Illumina, Invesco Perpetual, IP Group"
+  },
+  {
+    "company": "eDaili",
+    "valuation": "$1.9",
+    "date": "2/1/2019",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "K2VC, Lightspeed China Partners, Sky9 Capital"
+  },
+  {
+    "company": "monday.com",
+    "valuation": "$1.9",
+    "date": "7/30/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "\tEntree Capital, Genesis Partners, Insight Partners"
+  },
+  {
+    "company": "RigUp",
+    "valuation": "$1.9",
+    "date": "9/30/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Founders Fund, Quantum Energy Partners, Bedrock Capital"
+  },
+  {
+    "company": "MUSINSA",
+    "valuation": "$1.89",
+    "date": "11/11/2019",
+    "country": "South Korea",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Sequoia Capital"
+  },
+  {
+    "company": "Quora",
+    "valuation": "$2",
+    "date": "4/21/2017",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Y Combinator, Matrix Partners, Benchmark"
+  },
+  {
+    "company": "Zocdoc",
+    "valuation": "$1.8",
+    "date": "8/20/2015",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Founders Fund, Khosla Ventures, Goldman Sachs"
+  },
+  {
+    "company": "Sprinklr",
+    "valuation": "$1.8",
+    "date": "3/31/2015",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Azure Capital Partners,\n\t  Battery Ventures, Intel Capital"
+  },
+  {
+    "company": "reddit",
+    "valuation": "$1.8",
+    "date": "7/31/2017",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Y Combinator, Sequoia Capital, Coatue Management"
+  },
+  {
+    "company": "Devoted Health",
+    "valuation": "$1.8",
+    "date": "10/16/2018",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Andreessen Horowitz, F-Prime Capital, Venrock"
+  },
+  {
+    "company": "Afiniti",
+    "valuation": "$1.8",
+    "date": "4/14/2017",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "GAM Holding"
+  },
+  {
+    "company": "BillDesk",
+    "valuation": "$1.8",
+    "date": "11/16/2018",
+    "country": "India",
+    "industry": "Fintech",
+    "investor": "Temasek Holdings, Visa, March Capital Partners"
+  },
+  {
+    "company": "L&P Cosmetic",
+    "valuation": "$1.19",
+    "date": "1/1/2016",
+    "country": "South Korea",
+    "industry": "Consumer & retail",
+    "investor": "CDIB Capital"
+  },
+  {
+    "company": "wefox Group",
+    "valuation": "$1.76",
+    "date": "12/11/2019",
+    "country": "Germany",
+    "industry": "Fintech",
+    "investor": "Salesforce Ventures, Seedcamp, OMERS Ventures"
+  },
+  {
+    "company": "Kaseya",
+    "valuation": "$2",
+    "date": "3/27/2019",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Insight Partners, TPG Alternative & Renewable Technologies, Ireland Strategic Investment Fund"
+  },
+  {
+    "company": "Apus Group",
+    "valuation": "$1.73",
+    "date": "1/16/2015",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Redpoint Ventures, QiMing Venture Partners, Chengwei Capital"
+  },
+  {
+    "company": "Xinchao Media",
+    "valuation": "$1.72",
+    "date": "4/9/2018",
+    "country": "China",
+    "industry": "Internet software & services",
+    "investor": "JD.com, Baidu, Vision Plus Capital"
+  },
+  {
+    "company": "Squarespace",
+    "valuation": "$1.7",
+    "date": "12/14/2017",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "General Atlantic, Index Ventures, Accel Partners"
+  },
+  {
+    "company": "Buzzfeed",
+    "valuation": "$1.7",
+    "date": "8/18/2015",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "SV Angel, RRE Ventures, New Enterprise Associates\n"
+  },
+  {
+    "company": "XANT",
+    "valuation": "$1.7",
+    "date": "4/28/2014",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Microsoft Ventures, US\n\t  Venture Partners, Kleiner Perkins Caufield & Byers"
+  },
+  {
+    "company": "Graphcore",
+    "valuation": "$1.95",
+    "date": "12/18/2018",
+    "country": "United Kingdom",
+    "industry": "Artificial intelligence",
+    "investor": "Dell Technologies Capital, Pitango Venture Capital, Amadeus Capital Partners"
+  },
+  {
+    "company": "Pax Labs",
+    "valuation": "$1.7",
+    "date": "10/22/2018",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Tao Capital Partners, Global Asset Capital, Tiger Global Management"
+  },
+  {
+    "company": "Carta",
+    "valuation": "$1.7",
+    "date": "5/6/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Menlo Ventures, Spark Capital, Union Square Ventures"
+  },
+  {
+    "company": "Thumbtack",
+    "valuation": "$1.7",
+    "date": "9/29/2015",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Tiger Global, Sequoia Capital, Google Capital"
+  },
+  {
+    "company": "Scopely",
+    "valuation": "$1.7",
+    "date": "10/29/2019",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "Greycroft, Sands Capital, Revolution Growth"
+  },
+  {
+    "company": "CureVac",
+    "valuation": "$1.65",
+    "date": "3/5/2015",
+    "country": "Germany",
+    "industry": "Health",
+    "investor": "dievini Hopp BioTech Holding & Co., Eli Lilly & Co., LBBW Venture Capital"
+  },
+  {
+    "company": "Darktrace",
+    "valuation": "$1.65",
+    "date": "5/15/2018",
+    "country": "United Kingdom",
+    "industry": "Artificial intelligence",
+    "investor": "KKR, Ten Eleven Ventures, Summit Partners"
+  },
+  {
+    "company": "Jusfoun Big Data",
+    "valuation": "$1.65",
+    "date": "12/19/2018",
+    "country": "China",
+    "industry": "Data management & analytics",
+    "investor": "Boxin Capital, DT Capital Partners, IDG Capital"
+  },
+  {
+    "company": "ServiceTitan",
+    "valuation": "$1.65",
+    "date": "11/14/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Bessemer Venture Partners, ICONIQ Capital, Battery Ventures"
+  },
+  {
+    "company": "Infinidat",
+    "valuation": "$1.6",
+    "date": "4/29/2015",
+    "country": "Israel",
+    "industry": "Hardware",
+    "investor": "TPG Growth, Goldman Sachs"
+  },
+  {
+    "company": "BlaBlaCar",
+    "valuation": "$1.6",
+    "date": "9/16/2015",
+    "country": "France",
+    "industry": "Auto & transportation",
+    "investor": "Accel Partners, Index Ventures, Insight Venture Partners"
+  },
+  {
+    "company": "CAOCAO",
+    "valuation": "$1.6",
+    "date": "1/17/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "People Electrical Appliance Group China, Zhongrong International Trust"
+  },
+  {
+    "company": "Gan & Lee Pharmaceuticals",
+    "valuation": "$1.6",
+    "date": "11/1/2014",
+    "country": "China",
+    "industry": "Health",
+    "investor": "Qiming Venture Partners, Goldman Sachs, Hillhouse Capital Management"
+  },
+  {
+    "company": "Dataminr",
+    "valuation": "$1.6",
+    "date": "6/4/2018",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Venrock, Institutional Venture Partners, Goldman Sachs"
+  },
+  {
+    "company": "Sweetgreen",
+    "valuation": "$1.6",
+    "date": "11/13/2018",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Red Sea Ventures, Fidelity Investments, Revolution"
+  },
+  {
+    "company": "Pine Labs",
+    "valuation": "$1.6",
+    "date": "1/24/2020",
+    "country": "India",
+    "industry": "Fintech",
+    "investor": "MasterCard, Temasek, PayPal Ventures"
+  },
+  {
+    "company": "Verkada",
+    "valuation": "$1.6",
+    "date": "1/29/2020",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "next47, First Round Capital, Sequoia Capital"
+  },
+  {
+    "company": "Delhivery",
+    "valuation": "$1.5",
+    "date": "2/27/2019",
+    "country": "India",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Times Internet, Nexus Venture Partners, SoftBank Group"
+  },
+  {
+    "company": "Quanergy Systems",
+    "valuation": "$2",
+    "date": "8/24/2016",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "Delphi Automotive, Samsung Ventures, Motus Ventures"
+  },
+  {
+    "company": "AIWAYS",
+    "valuation": "$1.59",
+    "date": "4/16/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Jiangsu Sha Steel Group, Shanghai Puyin Industry, Funa Yuanchuang Technology"
+  },
+  {
+    "company": "Promasidor Holdings",
+    "valuation": "$1.58",
+    "date": "11/8/2016",
+    "country": "South Africa",
+    "industry": "Consumer & retail",
+    "investor": "IFC, Ajinomoto"
+  },
+  {
+    "company": "Northvolt",
+    "valuation": "$1.57",
+    "date": "6/12/2019",
+    "country": "Sweden",
+    "industry": "Other",
+    "investor": "Vattenfall, Volkswagen Group, Goldman Sachs"
+  },
+  {
+    "company": "Mu Sigma",
+    "valuation": "$1.5",
+    "date": "2/7/2013",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Sequoia Capital, General Atlantic"
+  },
+  {
+    "company": "STX Entertainment",
+    "valuation": "$1.5",
+    "date": "8/10/2016",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Tencent, TPG Growth, Hony Capital"
+  },
+  {
+    "company": "Tujia",
+    "valuation": "$1.5",
+    "date": "6/17/2015",
+    "country": "China",
+    "industry": "Travel",
+    "investor": "GGV Capital, QiMing Venture Partnersl"
+  },
+  {
+    "company": "ironSource",
+    "valuation": "$1.5",
+    "date": "8/11/2014",
+    "country": "Israel",
+    "industry": "Mobile & telecommunications",
+    "investor": "Access Industries, Clal\n\t  Industries and Investments"
+  },
+  {
+    "company": "Asana",
+    "valuation": "$1.5",
+    "date": "11/29/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "8VC, Benchmark, Generation Investment Management"
+  },
+  {
+    "company": "Segment",
+    "valuation": "$1.5",
+    "date": "4/2/2019",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Accel, Y Combinator, Thrive Capital"
+  },
+  {
+    "company": "Cybereason",
+    "valuation": "$1.5",
+    "date": "8/6/2019",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "SoftBank Group, CRV, Spark Capital"
+  },
+  {
+    "company": "PolicyBazaar",
+    "valuation": "$1.5",
+    "date": "5/6/2019",
+    "country": "India",
+    "industry": "Fintech",
+    "investor": "Info Edge, Softbank Capital"
+  },
+  {
+    "company": "DT Dream",
+    "valuation": "$1.5",
+    "date": "6/8/2017",
+    "country": "China",
+    "industry": "Data management & analytics",
+    "investor": "Alibaba Group, China Everbright Investment Management, Yinxinggu Capital"
+  },
+  {
+    "company": "JFrog",
+    "valuation": "$1.5",
+    "date": "10/4/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Gemini Israel Ventures, VMware, Battery Ventures"
+  },
+  {
+    "company": "ACV Auctions",
+    "valuation": "$1.5",
+    "date": "11/12/2019",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Bessemer Venture Partners, Tribeca Venture Partners, Bain Capital Ventures"
+  },
+  {
+    "company": "Gett",
+    "valuation": "$1.4",
+    "date": "6/7/2018",
+    "country": "Israel",
+    "industry": "Auto & transportation",
+    "investor": "Volkswagen, Access Industries, Vostok New Ventures"
+  },
+  {
+    "company": "Duolingo",
+    "valuation": "$1.5",
+    "date": "12/4/2019",
+    "country": "United States",
+    "industry": "Education",
+    "investor": "capitalG, Union Square Ventures, New Enterprise Associates"
+  },
+  {
+    "company": "CGTZ",
+    "valuation": "$1.4",
+    "date": "2/21/2017",
+    "country": "China",
+    "industry": "Fintech",
+    "investor": "Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund"
+  },
+  {
+    "company": "Coocaa",
+    "valuation": "$1.45",
+    "date": "3/16/2018",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "Baidu, Tencent Holdings"
+  },
+  {
+    "company": "Koudai",
+    "valuation": "$1.4",
+    "date": "10/23/2014",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "New Enterprise Associates,\n\t  Tiger Global management, Tencent"
+  },
+  {
+    "company": "AvidXchange",
+    "valuation": "$1.4",
+    "date": "6/8/2017",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Temasek Holdings, Charlotte Angel Partners, TPG Growth"
+  },
+  {
+    "company": "Hike",
+    "valuation": "$1.4",
+    "date": "8/16/2016",
+    "country": "India",
+    "industry": "Mobile & telecommunications",
+    "investor": "Foxconn, Tiger Global management, Tencent"
+  },
+  {
+    "company": "C3",
+    "valuation": "$1.4",
+    "date": "3/2/2017",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Makena Capital Management, TPG Growth, Breyer Capital"
+  },
+  {
+    "company": "AppLovin",
+    "valuation": "$1.4",
+    "date": "1/1/2017",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "Orient Hontai Capital, Webb Investment Network"
+  },
+  {
+    "company": "Allbirds",
+    "valuation": "$1.4",
+    "date": "10/11/2018",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Lerer Hippeau Ventures, T. Rowe Price, Tiger Global Management"
+  },
+  {
+    "company": "Cabify",
+    "valuation": "$1.4",
+    "date": "1/22/2018",
+    "country": "Spain",
+    "industry": "Auto & transportation",
+    "investor": "Seaya Ventures, Otter Rock Capital, Rakuten"
+  },
+  {
+    "company": " Away",
+    "valuation": "$1.4",
+    "date": "5/15/2019",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Global Founders Capital, Comcast Ventures,\tForerunner Ventures"
+  },
+  {
+    "company": "Symphony Communication Services",
+    "valuation": "$1.4",
+    "date": "5/16/2017",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "BNP Paribas, Goldman Sachs, Google"
+  },
+  {
+    "company": "Dataiku",
+    "valuation": "$1.4",
+    "date": "12/4/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "\tAlven Capital, FirstMark Capital, capitalG"
+  },
+  {
+    "company": "Yidian Zixun",
+    "valuation": "$1.4",
+    "date": "10/17/2017",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Phoenix New Media, Tianjin Haihe Industry Fund"
+  },
+  {
+    "company": "GPClub",
+    "valuation": "$1.32",
+    "date": "10/22/2018",
+    "country": "South Korea",
+    "industry": "Other",
+    "investor": "Goldman Sachs"
+  },
+  {
+    "company": "Zeta Global",
+    "valuation": "$1.3",
+    "date": "7/15/2015",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "GSO Capital Partners, Franklin Square"
+  },
+  {
+    "company": "Docker",
+    "valuation": "$1.3",
+    "date": "4/14/2015",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Greylock Partners,\n\t  Lightspeed Venture Partners, Lowercase Capital"
+  },
+  {
+    "company": "Trax",
+    "valuation": "$1.3",
+    "date": "7/22/2019",
+    "country": "Singapore",
+    "industry": "Artificial intelligence",
+    "investor": "Hopu Investment Management, Boyu Capital, DC Thomson Ventures"
+  },
+  {
+    "company": "Wildlife Studios",
+    "valuation": "$1.3",
+    "date": "12/5/2019",
+    "country": "Brazil",
+    "industry": "Other",
+    "investor": "Benchmark, Bessemer Venture Partners"
+  },
+  {
+    "company": "You & Mr Jones",
+    "valuation": "$1.3",
+    "date": "11/19/2019",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Undisclosed"
+  },
+  {
+    "company": "InSightec",
+    "valuation": "$1.3",
+    "date": "3/6/2020",
+    "country": "Israel",
+    "industry": "Health",
+    "investor": "York Capital Management, GE Healthcare, Koch Disruptive Technologies"
+  },
+  {
+    "company": "Ovo Energy",
+    "valuation": "$1.28",
+    "date": "2/14/2019",
+    "country": "United Kingdom",
+    "industry": "Other",
+    "investor": "Mitsubishi Corporation, Mayfair Equity Partners"
+  },
+  {
+    "company": "Starry",
+    "valuation": "$1.27",
+    "date": "3/27/2018",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "Social Capital, Bessemer Venture Partners"
+  },
+  {
+    "company": "WTOIP",
+    "valuation": "$1.27",
+    "date": "4/8/2018",
+    "country": "China",
+    "industry": "Internet software & services",
+    "investor": "Dark Horse Technology Group, Hopu Investment Management, Kefa Capital"
+  },
+  {
+    "company": "Intercom",
+    "valuation": "$1.29",
+    "date": "7/3/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "FirstMark Capital, Tiger Global Management"
+  },
+  {
+    "company": "Atom Bank",
+    "valuation": "$1.25",
+    "date": "3/7/2018",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "Toscafund Asset Management, Woodford Investment Management, BBVA"
+  },
+  {
+    "company": "Butterfly Network",
+    "valuation": "$1.25",
+    "date": "7/13/2018",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Bill & Melinda Gates Foundation, Aeris Capital,"
+  },
+  {
+    "company": "ezCater",
+    "valuation": "$1.25",
+    "date": "4/2/2019",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Insight Venture Partners, ICONIQ Capital, Launchpad Venture Group"
+  },
+  {
+    "company": "Infi",
+    "valuation": "$1.25",
+    "date": "5/1/2018",
+    "country": "Israel",
+    "industry": "Artificial intelligence",
+    "investor": "Pacific Century Group"
+  },
+  {
+    "company": "KeepTruckin",
+    "valuation": "$1.2",
+    "date": "4/23/2019",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Google Ventures, Index Ventures, Scale Venture Partners"
+  },
+  {
+    "company": "Ten-X",
+    "valuation": "$1.2",
+    "date": "3/5/2014",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Stone Point Capital, Google Capital"
+  },
+  {
+    "company": "Clover Health",
+    "valuation": "$1.2",
+    "date": "5/10/2017",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Google Ventures, Sequoia Capital, First Round Capital"
+  },
+  {
+    "company": "Warby\n\t  Parker",
+    "valuation": "$1.2",
+    "date": "4/30/2015",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "BoxGroup, Felicis Ventures,\n\t  First Round Capital"
+  },
+  {
+    "company": "OfferUp",
+    "valuation": "$1.2",
+    "date": "9/8/2016",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "Andreessen Horowitz, GGV Capital, T. Rowe Price"
+  },
+  {
+    "company": "Yiguo (易果生鲜)",
+    "valuation": "$1.2",
+    "date": "11/9/2016",
+    "country": "China",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Alibaba Group, KKR, Goldman Sachs"
+  },
+  {
+    "company": "Glossier",
+    "valuation": "$1.2",
+    "date": "3/19/2019",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Forerunner Ventures, Institutional Venture Partners, Thrive Capital"
+  },
+  {
+    "company": "Zipline International",
+    "valuation": "$1.2",
+    "date": "5/20/2019",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Sequoia Capital, Baillie Gifford & Co., Google Ventures"
+  },
+  {
+    "company": "SmartNews",
+    "valuation": "$1.2",
+    "date": "8/5/2019",
+    "country": "Japan",
+    "industry": "Mobile & telecommunications",
+    "investor": "Japan Post Capital, Globis Capital Partners, Atomico"
+  },
+  {
+    "company": "Fair",
+    "valuation": "$1.2",
+    "date": "12/20/2018",
+    "country": "United States",
+    "industry": "Auto & transportation",
+    "investor": "CreditEase Fintech Investment Fund, BMW i Ventures, SoftBank Group"
+  },
+  {
+    "company": "Rapyd",
+    "valuation": "$1.2",
+    "date": "12/3/2019",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "Target Global, General Catalyst, Durable Capital Partners"
+  },
+  {
+    "company": "Figure Technologies",
+    "valuation": "$1.2",
+    "date": "11/5/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "DCM Ventures, Ribbit Capital, RPM Ventures"
+  },
+  {
+    "company": "FirstCry",
+    "valuation": "$1.2",
+    "date": "2/7/2020",
+    "country": "India",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "SoftBank Group, SAIF Partners India, Valiant Capital Partners"
+  },
+  {
+    "company": "HeartFlow",
+    "valuation": "$1.5",
+    "date": "12/4/2017",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "BlueCross BlueShield Venture Partners, US Venture Partners"
+  },
+  {
+    "company": "Luoji Siwei",
+    "valuation": "$1.17",
+    "date": "7/20/2017",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "Sequoia Capital China, Qiming Venture Partners, Tencent Holdings"
+  },
+  {
+    "company": "Yimidida",
+    "valuation": "$1.17",
+    "date": "7/1/2019",
+    "country": "China",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Source Code Capital, Global Logistic Properties, K2VC"
+  },
+  {
+    "company": "Lyell Immunopharma",
+    "valuation": "$1.16",
+    "date": "2/8/2019",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "ARCH Venture Partners, Foresite Capital, Altitude Life Science Ventures"
+  },
+  {
+    "company": "Deezer",
+    "valuation": "$1.16",
+    "date": "8/2/2018",
+    "country": "France",
+    "industry": "Internet software & services",
+    "investor": "Orange Digital Ventures, Access Industries"
+  },
+  {
+    "company": "LIfeMiles",
+    "valuation": "$1.15",
+    "date": "7/13/2015",
+    "country": "Colombia",
+    "industry": "Other",
+    "investor": "Advent International"
+  },
+  {
+    "company": "BrewDog",
+    "valuation": "$1.15",
+    "date": "4/10/2017",
+    "country": "United Kingdom",
+    "industry": "Consumer & retail",
+    "investor": "TSG Consumer Partners, Crowdcube"
+  },
+  {
+    "company": "Doctolib",
+    "valuation": "$1.14",
+    "date": "3/19/2019",
+    "country": "France",
+    "industry": "Health",
+    "investor": "BPI France, Kerala Ventures, Accel"
+  },
+  {
+    "company": "Deposit Solutions",
+    "valuation": "$1.12",
+    "date": "9/18/2019",
+    "country": "Germany",
+    "industry": "Fintech",
+    "investor": "e.ventures, Greycroft, FinLab"
+  },
+  {
+    "company": "Actifio",
+    "valuation": "$1.1",
+    "date": "3/24/2014",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Greylock Partners, North\n\t  Bridge Venture Partners, Technology Crossover Ventures"
+  },
+  {
+    "company": "TangoMe",
+    "valuation": "$1.1",
+    "date": "3/20/2014",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "Draper Fisher Jurtson,\n\t  Qualcomm Ventures, Alibaba Group"
+  },
+  {
+    "company": "Tuhu",
+    "valuation": "$1.16",
+    "date": "9/15/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Qiming Venture Partners, Yaxia Automobile, Far East Horizon"
+  },
+  {
+    "company": "OVH",
+    "valuation": "$1.1",
+    "date": "7/3/2015",
+    "country": "France",
+    "industry": "Other",
+    "investor": "KKR, TowerBrook Capital Partners"
+  },
+  {
+    "company": "Tradeshift",
+    "valuation": "$1.1",
+    "date": "5/30/2018",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Notion Capital, Scentan Ventures, Kite Ventures"
+  },
+  {
+    "company": "Yijiupi (易久批)",
+    "valuation": "$1.1",
+    "date": "9/20/2018",
+    "country": "China",
+    "industry": "Consumer & retail",
+    "investor": "Source Code Capital, Meituan Dianping, Tencent Holdings"
+  },
+  {
+    "company": "Outreach",
+    "valuation": "$1.1",
+    "date": "4/16/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Mayfield Fund, M12, Trinity Ventures"
+  },
+  {
+    "company": "Ivalua",
+    "valuation": "$1.1",
+    "date": "5/21/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Ardian, Tiger Global Management, KKR"
+  },
+  {
+    "company": "Sonder",
+    "valuation": "$1.1",
+    "date": "7/11/2019",
+    "country": "United States",
+    "industry": "Travel",
+    "investor": "Structure Capital, Spark Capital, Greylock Partners"
+  },
+  {
+    "company": "Vinted",
+    "valuation": "$1.1",
+    "date": "11/27/2019",
+    "country": "Lithuania",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "\tAccel, Insight Partners, Burda Principal Investments"
+  },
+  {
+    "company": "Coveo",
+    "valuation": "$1.1",
+    "date": "11/06/2019",
+    "country": "Canada",
+    "industry": "Artificial intelligence",
+    "investor": "Fonds de Solidarite FTQ, Propulsion Ventures, BDC Venture Capital"
+  },
+  {
+    "company": "Course Hero",
+    "valuation": "$1.1",
+    "date": "2/12/2020",
+    "country": "United States",
+    "industry": "Edtech",
+    "investor": "NewView Capital, Maveron, Ridge Ventures"
+  },
+  {
+    "company": "SentinelOne",
+    "valuation": "$1.1",
+    "date": "2/19/2020",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Granite Hill Capital Partners, Data Collective, Tiger Global Management"
+  },
+  {
+    "company": "Linklogis",
+    "valuation": "$1.05",
+    "date": "10/15/2018",
+    "country": "China",
+    "industry": "Fintech",
+    "investor": "Bertelsmann Asia Investments, Loyal Valley Capital, Tencent Holdings"
+  },
+  {
+    "company": "Instabase",
+    "valuation": "$1.05",
+    "date": "10/21/2019",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "New Enterprise Associates, Greylock Partners, Andreessen Horowitz"
+  },
+  {
+    "company": "Aprogen",
+    "valuation": "$1.04",
+    "date": "5/31/2019",
+    "country": "South Korea",
+    "industry": "Health",
+    "investor": "\tLindeman Asia Investment, Nichi-Iko Pharmaceutical"
+  },
+  {
+    "company": "Miaoshou Doctor",
+    "valuation": "$1.02",
+    "date": "6/27/2019",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Sequoia Capital China, Qiming Venture Partners, Tencent Holdings"
+  },
+  {
+    "company": "TuSimple",
+    "valuation": "$1",
+    "date": "2/13/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Sina Weibo Fund, Zhiping Capital, Composite Capital Partners"
+  },
+  {
+    "company": "Radius Payment Solutions",
+    "valuation": "$1.07",
+    "date": "11/27/2017",
+    "country": "United Kingdom",
+    "industry": "Fintech",
+    "investor": "Inflexion Private Equity"
+  },
+  {
+    "company": "Formlabs",
+    "valuation": "$1.06",
+    "date": "8/1/2018",
+    "country": "United States",
+    "industry": "Hardware",
+    "investor": "Pitango Venture Capital, DFJ Growth Fund, Foundry Group"
+  },
+  {
+    "company": "Jiuxian",
+    "valuation": "$1.05",
+    "date": "7/30/2015",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Sequoia Capital China, Rich Land Capital, Merrysunny Wealth"
+  },
+  {
+    "company": "AppDirect",
+    "valuation": "$1.04",
+    "date": "10/7/2015",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Mithril, iNovia Capital, Foundry Group"
+  },
+  {
+    "company": "Judo Capital",
+    "valuation": "$1.04",
+    "date": "7/29/2019",
+    "country": "Australia",
+    "industry": "Other",
+    "investor": "Credit Suisse, OPTrust, Ironbridge Capital"
+  },
+  {
+    "company": "Kendra Scott",
+    "valuation": "$1",
+    "date": "12/21/2016",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Berkshire Partners, Norwest Venture Partners"
+  },
+  {
+    "company": "Avaloq Group",
+    "valuation": "$1.01",
+    "date": "3/22/2017",
+    "country": "Switzerland",
+    "industry": "Fintech",
+    "investor": "Warbug Pincus"
+  },
+  {
+    "company": "Leap Motor",
+    "valuation": "$1.01",
+    "date": "8/5/2019",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Sequoia Capital China, Gopher Asset Management, Shanghai Electric Group"
+  },
+  {
+    "company": "Katerra",
+    "valuation": "$1",
+    "date": "4/13/2017",
+    "country": "United States",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Foxconn Technology Company, Khosla Ventures, Moore Capital Management"
+  },
+  {
+    "company": "Womai",
+    "valuation": "$1",
+    "date": "10/12/2015",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "SAIF Partners China, Baidu, IDG Capital"
+  },
+  {
+    "company": "Procore Technologies",
+    "valuation": "$3",
+    "date": "12/8/2016",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Bessemer Venture Partners, O'Connor Ventures, Iconiq Capital"
+  },
+  {
+    "company": "Lookout",
+    "valuation": "$1",
+    "date": "8/13/2014",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Accel Partners, Greylock\n\t  Partners, Lowercase Capital"
+  },
+  {
+    "company": "TechStyle Fashion Group",
+    "valuation": "$1",
+    "date": "8/29/2014",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Matrix Partners, Passport\n\t  Capital, Rho Ventures"
+  },
+  {
+    "company": "Proteus Digital Health",
+    "valuation": "$1.5",
+    "date": "6/2/2014",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Novartis, Essex Woodlands, The Carlyle Group"
+  },
+  {
+    "company": "Desktop Metal",
+    "valuation": "$1.5",
+    "date": "7/17/2017",
+    "country": "United States",
+    "industry": "Hardware",
+    "investor": "Australian Future Fund, GE Ventures, Data Collective"
+  },
+  {
+    "company": "Lenskart",
+    "valuation": "$1.5",
+    "date": "12/20/2019",
+    "country": "India",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Chiratae Ventures, PremjiInvest, Softbank"
+  },
+  {
+    "company": "Illumio",
+    "valuation": "$1",
+    "date": "4/14/2014",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Data Collective, Formation\n\t  8, General Catalyst Partners"
+  },
+  {
+    "company": "BeiBei",
+    "valuation": "$1",
+    "date": "1/22/2015",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Banyan Capital, New Horizon\n\t  Capital, IDG Capital Partners"
+  },
+  {
+    "company": "InMobi",
+    "valuation": "$1",
+    "date": "12/2/2014",
+    "country": "India",
+    "industry": "Mobile & telecommunications",
+    "investor": "Kleiner Perkins Caufield\n\t  & Byers, Softbank Corp., Sherpalo Ventures"
+  },
+  {
+    "company": "MarkLogic",
+    "valuation": "$1",
+    "date": "5/12/2015",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Sequoia Capital, Tenaya Capital, Northgate Capital"
+  },
+  {
+    "company": "Zhaogang",
+    "valuation": "$1",
+    "date": "6/29/2017",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "K2 Ventures, Matrix Partners China, IDG Capital"
+  },
+  {
+    "company": "Vox Media",
+    "valuation": "$1",
+    "date": "8/12/2015",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Accel Partners, Comcast Ventures, General Atlantic"
+  },
+  {
+    "company": "Kabbage",
+    "valuation": "$1",
+    "date": "10/14/2015",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "BlueRun Ventures, SV Angel, Mohr Davidow Ventures"
+  },
+  {
+    "company": "iTutorGroup",
+    "valuation": "$1",
+    "date": "11/18/2015",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "QiMing Venture Partners, Temasek Holdings, Silverlink Capital"
+  },
+  {
+    "company": "Cell C",
+    "valuation": "$1",
+    "date": "8/8/2017",
+    "country": "South Africa",
+    "industry": "Mobile & telecommunications",
+    "investor": "Blue Label Telecoms, Net1 UEPS Technologies"
+  },
+  {
+    "company": "MindMaze",
+    "valuation": "$1",
+    "date": "2/17/2016",
+    "country": "Switzerland",
+    "industry": "Health",
+    "investor": "Hinduja Group"
+  },
+  {
+    "company": "Mia.com",
+    "valuation": "$1",
+    "date": "9/8/2015",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Sequoia Capital China, ZhenFund, K2 Ventures"
+  },
+  {
+    "company": "iCarbonX",
+    "valuation": "$1",
+    "date": "4/12/2016",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Tencent, Vcanbio"
+  },
+  {
+    "company": "Age of Learning",
+    "valuation": "$1",
+    "date": "5/3/2016",
+    "country": "United States",
+    "industry": "Edtech",
+    "investor": "Iconiq Capital"
+  },
+  {
+    "company": "SMS Assist",
+    "valuation": "$1",
+    "date": "6/13/2016",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital"
+  },
+  {
+    "company": "Mofang Living",
+    "valuation": "$1",
+    "date": "4/13/2016",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Warburg Pincus, Aviation Industry Corporation of China"
+  },
+  {
+    "company": "HuJiang",
+    "valuation": "$1",
+    "date": "10/29/2015",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "China Minsheng Investment, Baidu, Wanxin Media"
+  },
+  {
+    "company": "Rubicon Global",
+    "valuation": "$1",
+    "date": "8/25/2017",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Goldman Sachs, Leonardo DiCaprio, Promecap "
+  },
+  {
+    "company": "YH Global",
+    "valuation": "$1",
+    "date": "9/21/2017",
+    "country": "China",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Co-Energy Finance, Grandland"
+  },
+  {
+    "company": "Rocket Lab",
+    "valuation": "$1",
+    "date": "3/21/2017",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Lockheed Martin, Khosla Ventures, Bessemer Venture Partners"
+  },
+  {
+    "company": "Zhuan Zhuan",
+    "valuation": "$1",
+    "date": "4/18/2017",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "58.com, Tencent Holdings"
+  },
+  {
+    "company": "Supreme",
+    "valuation": "$1",
+    "date": "10/9/2017",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "The Carlyle Group"
+  },
+  {
+    "company": "XiaoZhu",
+    "valuation": "$1",
+    "date": "11/1/2017",
+    "country": "China",
+    "industry": "Travel",
+    "investor": "Morningside Ventures, Capital Today, JOY Capital"
+  },
+  {
+    "company": "WeLab",
+    "valuation": "$1",
+    "date": "11/8/2017",
+    "country": "Hong Kong",
+    "industry": "Fintech",
+    "investor": "Sequoia Capital China, ING,\tAlibaba Entrepreneurs Fund"
+  },
+  {
+    "company": "Payoneer",
+    "valuation": "$1",
+    "date": "12/5/2017",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Susquehanna Growth Equity, 83North, China Broadband Capital"
+  },
+  {
+    "company": "100credit",
+    "valuation": "$1",
+    "date": "4/18/2018",
+    "country": "China",
+    "industry": "Fintech",
+    "investor": "Sequoia Capital China, China Reform Fund, Hillhouse Capital Management"
+  },
+  {
+    "company": "Rani Therapeutics",
+    "valuation": "$1",
+    "date": "2/8/2018",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Google Ventures, VentureHealth, InCube Ventures"
+  },
+  {
+    "company": "OrCam Technologies",
+    "valuation": "$1",
+    "date": "02/21/2018",
+    "country": "Israel",
+    "industry": "Artificial intelligence",
+    "investor": "Intel Capital, Aviv Venture Capital"
+  },
+  {
+    "company": "Lalamove",
+    "valuation": "$1",
+    "date": "02/21/2018",
+    "country": "Hong Kong",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "MindWorks Ventures, Shunwei Capital Partners, \tXiang He Capital"
+  },
+  {
+    "company": "17zuoye ",
+    "valuation": "$1",
+    "date": "03/7/2018",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "DST Global, Temasek Holdings"
+  },
+  {
+    "company": "Dxy.cn",
+    "valuation": "$1",
+    "date": "04/10/2018",
+    "country": "China",
+    "industry": "Health",
+    "investor": "Tencent Holdings, DCM Ventures"
+  },
+  {
+    "company": "Soundhound",
+    "valuation": "$1",
+    "date": "05/03/2018",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Tencent Holdings, Walden Venture Capital, Global Catalyst Partnera"
+  },
+  {
+    "company": "Huike Group",
+    "valuation": "$1",
+    "date": "05/24/2018",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co."
+  },
+  {
+    "company": "JOLLY Information Technology",
+    "valuation": "$1",
+    "date": "05/29/2018",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Legend Capital, CDH Investments, Sequoia Capital China"
+  },
+  {
+    "company": "Bolt",
+    "valuation": "$1",
+    "date": "05/30/2018",
+    "country": "Estonia",
+    "industry": "Auto & transportation",
+    "investor": "Didi Chuxing, Diamler, TMT Investments"
+  },
+  {
+    "company": "Dada-JD Daojia",
+    "valuation": "$1",
+    "date": "12/31/2015",
+    "country": "China",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "DST Global, Sequoia Capital China"
+  },
+  {
+    "company": "OutSystems",
+    "valuation": "$1",
+    "date": "6/5/2018",
+    "country": "Portugal",
+    "industry": "Internet software & services",
+    "investor": "KKR, ES Ventures, North Bridge Growth Equity"
+  },
+  {
+    "company": "MediaMath",
+    "valuation": "$1",
+    "date": "7/10/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Silicon Valley Bank, QED Investors, European Founders Fund"
+  },
+  {
+    "company": "About You",
+    "valuation": "$1",
+    "date": "7/19/2018",
+    "country": "Germany",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "German Media Pool, Seven Venture Capital"
+  },
+  {
+    "company": "Revolution Precrafted",
+    "valuation": "$1",
+    "date": "10/23/2017",
+    "country": "Philippines",
+    "industry": "Other",
+    "investor": "K2 Global, 500 Startups"
+  },
+  {
+    "company": "Klook",
+    "valuation": "$1",
+    "date": "8/7/2018",
+    "country": "Hong Kong",
+    "industry": "Travel",
+    "investor": "Sequoia Capital China, Goldman Sachs, Matrix Partners China"
+  },
+  {
+    "company": "Cohesity",
+    "valuation": "$1",
+    "date": "6/11/2018",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "SoftBank Group, Sequoia Capital, Wing Venture Capital"
+  },
+  {
+    "company": "Shansong Express (FlashEx)",
+    "valuation": "$1",
+    "date": "8/27/2018",
+    "country": "China",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Prometheus Capital, Matrix Partners China, JD Capital Management"
+  },
+  {
+    "company": "Rappi",
+    "valuation": "$1",
+    "date": "8/31/2018",
+    "country": "Colombia",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures"
+  },
+  {
+    "company": "Aijia Life",
+    "valuation": "$1",
+    "date": "9/17/2018",
+    "country": "China",
+    "industry": "Other",
+    "investor": "Tiantu Capital, Fortune Capital, Zhenghedao Fund"
+  },
+  {
+    "company": "Nxin (农信互联)",
+    "valuation": "$1",
+    "date": "9/18/2018",
+    "country": "China",
+    "industry": "Internet software & services",
+    "investor": "Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund"
+  },
+  {
+    "company": "WalkMe",
+    "valuation": "$1",
+    "date": "9/20/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Gemini Israel Ventures, Insight Venture Partners, Giza Venture Capital"
+  },
+  {
+    "company": "ZipRecruiter",
+    "valuation": "$1",
+    "date": "10/4/2018",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Basepoint Ventures,Industry Ventures, and Institutional Venture Partners"
+  },
+  {
+    "company": "Medlinker",
+    "valuation": "$1",
+    "date": "7/31/2018",
+    "country": "China",
+    "industry": "Health",
+    "investor": "China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China"
+  },
+  {
+    "company": "Momenta",
+    "valuation": "$1",
+    "date": "10/17/2018",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Sinovation Ventures, Tencent Holdings, Sequoia Capital China"
+  },
+  {
+    "company": "Bitfury",
+    "valuation": "$1",
+    "date": "11/6/2018",
+    "country": "Netherlands",
+    "industry": "Hardware",
+    "investor": "Georgian Co-Investment Fund, iTech Capital, Galaxy Digital"
+  },
+  {
+    "company": "Airtable",
+    "valuation": "$1.1",
+    "date": "11/15/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Caffeinated Capital, CRV, Founder Collective"
+  },
+  {
+    "company": "LinkDoc Technology",
+    "valuation": "$1",
+    "date": "7/5/2018",
+    "country": "China",
+    "industry": "Health",
+    "investor": "China Investment Corporation, New Enterprise Associates"
+  },
+  {
+    "company": "Banma Network Technologies",
+    "valuation": "$1",
+    "date": "9/13/2018",
+    "country": "China",
+    "industry": "Auto & transportation",
+    "investor": "Yunfeng Capital, SDIC Innovation Investment Management, Shang Qi Capital"
+  },
+  {
+    "company": "TalkDesk",
+    "valuation": "$1",
+    "date": "10/3/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "DJF, Salesforce Ventures, Storm Ventures"
+  },
+  {
+    "company": "Geek+",
+    "valuation": "$1",
+    "date": "11/21/2018",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "Volcanics Ventures, Vertex Ventures China, Warburg Pincus"
+  },
+  {
+    "company": "Pat McGrath Labs",
+    "valuation": "$1",
+    "date": "7/13/2018",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "One Luxury Group, Eurazeo"
+  },
+  {
+    "company": "Seismic",
+    "valuation": "$1",
+    "date": "12/18/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners"
+  },
+  {
+    "company": "iFood",
+    "valuation": "$1",
+    "date": "11/13/2018",
+    "country": "Brazil",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Movile, Just Eat, Naspers"
+  },
+  {
+    "company": "Omio",
+    "valuation": "$1",
+    "date": "10/23/2018",
+    "country": "Germany",
+    "industry": "Travel",
+    "investor": "Lakestar, Battery Ventures, New Enterprise Associates"
+  },
+  {
+    "company": "Zhangmen",
+    "valuation": "$1",
+    "date": "12/26/2017",
+    "country": "United States",
+    "industry": "Edtech",
+    "investor": "Shunwei Capital Partners, QingSong Fund, Warburg Pincus"
+  },
+  {
+    "company": "Calm",
+    "valuation": "$1",
+    "date": "2/6/2019",
+    "country": "United States",
+    "industry": "Consumer & retail",
+    "investor": "Insight Venture Partners, TPG Growth, Sound Ventures"
+  },
+  {
+    "company": "58 Daojia",
+    "valuation": "$1",
+    "date": "2/18/2016",
+    "country": "China",
+    "industry": "Internet software & services",
+    "investor": "KKR, Alibaba Group, Ping An Insurance"
+  },
+  {
+    "company": "LinkSure Network",
+    "valuation": "$1",
+    "date": "1/1/2015",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "N/A"
+  },
+  {
+    "company": "China Cloud",
+    "valuation": "$1",
+    "date": "6/11/2018",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "V Star Capital, GF Xinde Investment Management Co., Haitong Leading Capital Management"
+  },
+  {
+    "company": "Hosjoy",
+    "valuation": "$1",
+    "date": "10/18/2018",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "U.S.-China Green Fund, Founder H Fund, Richland Equities"
+  },
+  {
+    "company": "Unisound",
+    "valuation": "$1.19",
+    "date": "7/19/2018",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "Qiming Venture Partners, China Internet Investment Fund, Qualcomm Ventures"
+  },
+  {
+    "company": "Tresata",
+    "valuation": "$1",
+    "date": "10/10/2018",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "GCP Capital Partners"
+  },
+  {
+    "company": "Globality",
+    "valuation": "$1",
+    "date": "1/22/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "SoftBank Group"
+  },
+  {
+    "company": "Rent the Runway",
+    "valuation": "$1",
+    "date": "3/21/2019",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Bain Capital Ventures, Kleiner Perkins Caufield & Byers, Highland Capital Partners"
+  },
+  {
+    "company": "Intellifusion",
+    "valuation": "$1",
+    "date": "3/22/2019",
+    "country": "China",
+    "industry": "Artificial intelligence",
+    "investor": "BOC International, TopoScend Capital, Hongxiu VC"
+  },
+  {
+    "company": "Airwallex",
+    "valuation": "$1",
+    "date": "3/25/2019",
+    "country": "Australia",
+    "industry": "Fintech",
+    "investor": "DST Global, Sequoia Capital China, Tencent Holdings"
+  },
+  {
+    "company": "Hims",
+    "valuation": "$1.1",
+    "date": "1/29/2019",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Forerunner Ventures, Thrive Capital, Redpoint Ventures"
+  },
+  {
+    "company": "Liquid",
+    "valuation": "$1",
+    "date": "4/3/2019",
+    "country": "Japan",
+    "industry": "Fintech",
+    "investor": "JAFCO Co, Bitmain Technologies, IDG Capital"
+  },
+  {
+    "company": "Red Ventures",
+    "valuation": "$1",
+    "date": "1/7/2015",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Silver Lake Partners, General Atlantic"
+  },
+  {
+    "company": "Terminus Technologies",
+    "valuation": "$1",
+    "date": "10/25/2018",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "China Everbright Limited, IDG Capital, iFLYTEK"
+  },
+  {
+    "company": "Sila Nanotechnologies",
+    "valuation": "$1",
+    "date": "4/16/2019",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "Bessemer Venture Partners, Sutter Hill Ventures, Matrix Partners"
+  },
+  {
+    "company": "Dream11",
+    "valuation": "$1",
+    "date": "4/9/2019",
+    "country": "India",
+    "industry": "Internet software & services",
+    "investor": "Kaalari Capital, Tencent Holdings, Steadview Capital"
+  },
+  {
+    "company": "Coursera",
+    "valuation": "$1",
+    "date": "4/25/2019",
+    "country": "United States",
+    "industry": "Edtech",
+    "investor": "New Enterprise Associates, Kleiner Perkins Caufield & Byers, GSV Capital, Learn Capital"
+  },
+  {
+    "company": "Poizon",
+    "valuation": "$1",
+    "date": "4/29/2019",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "DST Global, Sequoia Capital China, Gaorong Capital"
+  },
+  {
+    "company": "BigBasket",
+    "valuation": "$1",
+    "date": "5/6/2019",
+    "country": "India",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "\tAlibaba Group, Bessemer Venture Partners, Helion Venture Partners"
+  },
+  {
+    "company": "VTS",
+    "valuation": "$1",
+    "date": "5/7/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners"
+  },
+  {
+    "company": "Sumo Logic",
+    "valuation": "$1",
+    "date": "5/8/2019",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Greylock Partners, Sutter Hill Ventures, Accel"
+  },
+  {
+    "company": "GetYourGuide",
+    "valuation": "$1",
+    "date": "5/16/2019",
+    "country": "Germany",
+    "industry": "Travel",
+    "investor": "\tSpark Capital, Highland Europe, Sunstone Capital"
+  },
+  {
+    "company": "Auth0",
+    "valuation": "$1",
+    "date": "5/20/2019",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Bessemer Venture Partners, K9 Ventures, Trinity Ventures"
+  },
+  {
+    "company": "OCSiAl",
+    "valuation": "$1",
+    "date": "3/4/2019",
+    "country": "Luxembourg",
+    "industry": "Other",
+    "investor": "\tA&NN, Rusnano"
+  },
+  {
+    "company": "KnowBox",
+    "valuation": "$1",
+    "date": "5/30/2019",
+    "country": "China",
+    "industry": "Edtech",
+    "investor": "TAL Education Group, Legend Star, Alibaba Group"
+  },
+  {
+    "company": "Loggi",
+    "valuation": "$1",
+    "date": "6/05/2019",
+    "country": "Brazil",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "Qualcomm Ventures, SoftBank Group. Monashees+"
+  },
+  {
+    "company": "Yanolja",
+    "valuation": "$1",
+    "date": "6/11/2019",
+    "country": "South Korea",
+    "industry": "Travel",
+    "investor": "SBI Investment Korea, Partners Investment, GIC"
+  },
+  {
+    "company": "KnowBe4",
+    "valuation": "$1",
+    "date": "6/12/2019",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Elephant Venture Capital, KKR, Ten Eleven Ventures"
+  },
+  {
+    "company": "Meero",
+    "valuation": "$1",
+    "date": "6/18/2019",
+    "country": "France",
+    "industry": "Artificial intelligence",
+    "investor": "Aglae Ventures, Global Founders Capital, Alven Capital"
+  },
+  {
+    "company": "Druva",
+    "valuation": "$1",
+    "date": "6/19/2019",
+    "country": "United States",
+    "industry": "Data management & analytics\t",
+    "investor": "Nexus Venture Partners, Tenaya Capital, Sequoia Capital"
+  },
+  {
+    "company": "StockX",
+    "valuation": "$1",
+    "date": "6/26/2019",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Google Ventures, Battery Ventures, DST Global"
+  },
+  {
+    "company": "Branch",
+    "valuation": "$1",
+    "date": "9/10/2018",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "New Enterprise Associates, Pear, Cowboy Ventures"
+  },
+  {
+    "company": "Ola Electric Mobility",
+    "valuation": "$1",
+    "date": "7/2/2019",
+    "country": "India",
+    "industry": "Auto & transportation",
+    "investor": "SoftBank Group, Tiger Global Management, Matrix Partners India"
+  },
+  {
+    "company": "Rivigo",
+    "valuation": "$1.07",
+    "date": "7/11/2019",
+    "country": "India",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "SAIF Partners India, Warburg Pincus, Trifecta Capital Advisors"
+  },
+  {
+    "company": "Icertis",
+    "valuation": "$1",
+    "date": "7/17/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Eight Roads Ventures, Greycroft, Ignition Partners"
+  },
+  {
+    "company": "Turo",
+    "valuation": "$1",
+    "date": "7/17/2019",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "August Capital, Google Ventures, Shasta Ventures"
+  },
+  {
+    "company": "Hippo",
+    "valuation": "$1",
+    "date": "7/24/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Propel Venture Partners, Horizons Ventures, Comcast Ventures"
+  },
+  {
+    "company": "Gympass",
+    "valuation": "$1",
+    "date": "6/12/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "General Atlantic, SoftBank Group, Atomico"
+  },
+  {
+    "company": "DataRobot",
+    "valuation": "$1",
+    "date": "7/29/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "New Enterprise Associates, Accomplice, IA Ventures"
+  },
+  {
+    "company": "Lightricks",
+    "valuation": "$1",
+    "date": "7/31/2019",
+    "country": "Israel",
+    "industry": "Artificial intelligence",
+    "investor": "Viola Ventures, Insight Partners, ClalTech, Goldman Sachs"
+  },
+  {
+    "company": "Scale AI",
+    "valuation": "$1",
+    "date": "8/5/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Accel, Y Combinator, Index Ventures"
+  },
+  {
+    "company": "Ibotta",
+    "valuation": "$1",
+    "date": "8/6/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Koch Disruptive Technologies, Teamworthy Ventures, GGV Capital"
+  },
+  {
+    "company": "C2FO",
+    "valuation": "$1",
+    "date": "8/7/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Union Square Ventures, Summerhill Venture Partners, Mithril Capital Management"
+  },
+  {
+    "company": "Numbrs",
+    "valuation": "$1",
+    "date": "8/22/2019",
+    "country": "Switzerland",
+    "industry": "Fintech",
+    "investor": "Investment Corporation of Dubai, Centralway"
+  },
+  {
+    "company": "InVision",
+    "valuation": "$1",
+    "date": "11/1/2017",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "FirstMark Capital, Tiger Global Management, ICONIQ Capital"
+  },
+  {
+    "company": "ThoughtSpot",
+    "valuation": "$1",
+    "date": "5/8/2018",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Lightspeed Venture Partners, Khosla Ventures, Geodesic Capital"
+  },
+  {
+    "company": "Knotel",
+    "valuation": "$1",
+    "date": "8/21/2019",
+    "country": "United States",
+    "industry": "Other",
+    "investor": "\tBloomberg Beta, Newmark Knight Frank, Norwest Venture Partners"
+  },
+  {
+    "company": "Grove Collaborative",
+    "valuation": "$1",
+    "date": "9/06/2019",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "MHS Capital, NextView Ventures, Mayfield Fund"
+  },
+  {
+    "company": "QuintoAndar",
+    "valuation": "$1",
+    "date": "9/10/2019",
+    "country": "Brazil",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Kaszek Ventures, General Atlantic, SoftBank Group"
+  },
+  {
+    "company": "Perfect Diary",
+    "valuation": "$2",
+    "date": "9/11/2019",
+    "country": "China",
+    "industry": "Other",
+    "investor": "Sequoia Capital China, Hillhouse Capital Management, CMC Capital Partners"
+  },
+  {
+    "company": "Anduril",
+    "valuation": "$1",
+    "date": "9/11/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Andreessen Horowitz, Founders Fund, Revolution Ventures"
+  },
+  {
+    "company": "CMR Surgical",
+    "valuation": "$1",
+    "date": "9/17/2019",
+    "country": "United Kingdom",
+    "industry": "Health",
+    "investor": "Cambridge Innovation Capital, LGT Capital Partners, Escala Capital"
+  },
+  {
+    "company": "Acronis",
+    "valuation": "$1",
+    "date": "9/18/2019",
+    "country": "Switzerland",
+    "industry": "Cybersecurity",
+    "investor": "Goldman Sachs, VebVentures, Insight Partners"
+  },
+  {
+    "company": "Dave",
+    "valuation": "$1",
+    "date": "9/30/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Section 32, SV Angel, Norwest Venture Partners"
+  },
+  {
+    "company": "Next Insurance",
+    "valuation": "$1",
+    "date": "10/7/2019",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Zeev Ventures, Ribbit Capital, TLV Partners"
+  },
+  {
+    "company": "Grammarly",
+    "valuation": "$1",
+    "date": "10/10/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "General Catalyst, Institutional Venture Partners, Breyer Capital"
+  },
+  {
+    "company": "EBANX",
+    "valuation": "$1",
+    "date": "10/16/2019",
+    "country": "Brazil",
+    "industry": "Fintech",
+    "investor": "FTV Capital, Endeavor"
+  },
+  {
+    "company": "Pendo",
+    "valuation": "$1",
+    "date": "10/17/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Contour Venture Partners, Battery Ventures, Core Capital Partners"
+  },
+  {
+    "company": "KK Group",
+    "valuation": "$1",
+    "date": "10/23/2019",
+    "country": "China",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Matrix Partners China, Bright Venture Capita, Shenzhen Capital Group"
+  },
+  {
+    "company": "Kujiale",
+    "valuation": "$1",
+    "date": "10/25/2019",
+    "country": "China",
+    "industry": "Internet software & services",
+    "investor": "GGV Capital, IDG Capital, Linear Venture"
+  },
+  {
+    "company": "Vacasa",
+    "valuation": "$1",
+    "date": "10/29/2019",
+    "country": "United States",
+    "industry": "Travel",
+    "investor": "Level Equity, NewSpring Holdings, Riverwood Capital"
+  },
+  {
+    "company": "Faire",
+    "valuation": "$1",
+    "date": "10/30/2019",
+    "country": "United States",
+    "industry": "Artificial intelligence",
+    "investor": "Khosla Ventures, Forerunner Ventures, Sequoia Capital"
+  },
+  {
+    "company": "Riskified",
+    "valuation": "$1",
+    "date": "11/05/2019",
+    "country": "United States",
+    "industry": "Cybersecurity",
+    "investor": "Entree Capital, Genesis Partners, Qumra Capital"
+  },
+  {
+    "company": "Guild Education",
+    "valuation": "$1",
+    "date": "11/13/2019",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "Redpoint Ventures, Harrison Metal, Bessemer Venture Partners"
+  },
+  {
+    "company": "Wacai",
+    "valuation": "$1",
+    "date": "7/18/2018",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Qiming Venture Partners, China Broadband Capital, CDH Investments"
+  },
+  {
+    "company": "Vroom",
+    "valuation": "$1",
+    "date": "12/6/2019",
+    "country": "United States",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "L Catterton, General Catalyst, T. Rowe Price"
+  },
+  {
+    "company": "Bright Health",
+    "valuation": "$1",
+    "date": "12/17/2019",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "New Enterprise Associates, Bessemer Venture Partners, Flare Capital Partners"
+  },
+  {
+    "company": "Glovo",
+    "valuation": "$1",
+    "date": "12/19/2019",
+    "country": "Spain",
+    "industry": "Supply chain, logistics, & delivery",
+    "investor": "IDInvest Partners, Seaya Ventures, Lakestar"
+  },
+  {
+    "company": "Loft",
+    "valuation": "$1",
+    "date": "1/3/2020",
+    "country": "Brazil",
+    "industry": "E-commerce & direct-to-consumer",
+    "investor": "Monashees+, Andreessen Horowitz, QED Investors"
+  },
+  {
+    "company": "HighRadius",
+    "valuation": "$1",
+    "date": "1/7/2020",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital"
+  },
+  {
+    "company": "ClassPass",
+    "valuation": "$1",
+    "date": "1/8/2020",
+    "country": "United States",
+    "industry": "Internet software & services",
+    "investor": "General Catalyst, L Catterton, Acequia Capital"
+  },
+  {
+    "company": "Sisense",
+    "valuation": "$1",
+    "date": "1/9/2020",
+    "country": "United States",
+    "industry": "Data management & analytics",
+    "investor": "Opus Capital, Genesis Partners, Battery Ventures"
+  },
+  {
+    "company": "Snyk",
+    "valuation": "$1",
+    "date": "1/21/2020",
+    "country": "United Kingdom",
+    "industry": "Cybersecurity",
+    "investor": "BOLDstart Ventures, Google Ventures, Accel"
+  },
+  {
+    "company": "AppsFlyer",
+    "valuation": "$1.6",
+    "date": "1/21/2020",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "\tMagma Venture Partners, Pitango Venture Capital, Qumra Capital"
+  },
+  {
+    "company": "Maimai",
+    "valuation": "$1",
+    "date": "11/15/2017",
+    "country": "China",
+    "industry": "Mobile & telecommunications",
+    "investor": "Morningside Venture Capital, IDG Capital, DCM Ventures"
+  },
+  {
+    "company": "Orbbec Technology",
+    "valuation": "$1",
+    "date": "5/21/2018",
+    "country": "China",
+    "industry": "Hardware",
+    "investor": "R-Z Capital, Green Pine Capital Partners, SAIF Partners China"
+  },
+  {
+    "company": "Alto Pharmacy",
+    "valuation": "$1",
+    "date": "1/30/2020",
+    "country": "United States",
+    "industry": "Health",
+    "investor": "Jackson Square Ventures, Greenoaks Capital Management, Softbank Group"
+  },
+  {
+    "company": "Flywire",
+    "valuation": "$1",
+    "date": "2/13/2020",
+    "country": "United States",
+    "industry": "Fintech",
+    "investor": "Spark Capital, F-Prime Capital, Kibo Ventures"
+  },
+  {
+    "company": "Headspin",
+    "valuation": "$1.16",
+    "date": "2/25/2020",
+    "country": "United States",
+    "industry": "Mobile & telecommunications",
+    "investor": "ICONIQ Capital, Dell Technologies Capital, Tiger Global Management"
+  }
+]

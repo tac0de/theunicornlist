@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #161616;
+}
+
+#output {
+  margin-top: 20px;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+table {
+  font-size: 0.9rem;
+  border-radius: 5px 5px;
+  overflow: hidden;
+  border-collapse: collapse;
+
+  table-layout: fixed;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #ddd;
+}
+
+table thead tr {
+  background-color: yellow;
+}
+
+table th,
+table td {
+  padding: 12px 15px;
+  text-align: left;
+}
+
+table td {
+  font-size: 1.6vw;
+}
+
+table th {
+  font-size: 0.85em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border-radius: 0;
+    border: 0;
+  }
+
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  table tr {
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 0.625em;
+  }
+
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  table td::before {
+    margin-bottom: 2px;
+    font-size: 8px;
+    content: attr(data-th);
+    display: block;
+    font-weight: lighter;
+    text-transform: uppercase;
+  }
+
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
