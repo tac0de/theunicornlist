@@ -1,31 +1,80 @@
-body {
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
   margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: sans-serif;
-  background-color: #161616;
+  padding: 0;
 }
+
+header {
+  text-align: center;
+  background: #3930c6;
+  padding: 10rem 0;
+  color: white;
+}
+
+.title {
+  font-size: 5rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  font-family: "Anton", sans-serif;
+  letter-spacing: 2px;
+  font-weight: normal;
+}
+
+header h2 {
+  margin-top: 0.8rem;
+  font-weight: 400;
+  font-size: 1.2rem;
+  opacity: 0.8;
+}
+
+section.description {
+  text-align: center;
+  margin: 0 auto;
+  padding: 5rem 2.5rem;
+  position: relative;
+  max-width: 700px;
+}
+
+section.description h2 {
+  margin-bottom: 1.5rem;
+}
+
+section.description p {
+  font-size: 1.2rem;
+  opacity: 0.8;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #f6f6f8;
+}
+
+/* TABLE STYLES */
 
 #output {
   max-width: 992px;
+  margin: 0 auto;
 }
 
 table {
+  position: relative;
   font-size: 0.9rem;
-  border-radius: 5px 5px;
-  overflow: hidden;
   border-collapse: collapse;
   table-layout: fixed;
 }
 
 table tr {
-  background-color: #f8f8f8;
+  background-color: #fff;
   border-bottom: 1px solid #ddd;
 }
 
 table thead tr {
-  background-color: yellow;
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
 }
 
 table thead tr th:not(:last-child) {
@@ -47,7 +96,11 @@ table td {
 }
 
 table th {
-  font-size: 0.9rem;
+  background: #3930c6;
+  color: white;
+  position: sticky;
+  top: 0;
+  font-size: 0.8rem;
   text-transform: uppercase;
 }
 
@@ -59,8 +112,28 @@ table th {
 }
 
 @media (max-width: 768px) {
+  .title {
+    font-size: 3.2rem;
+  }
+
+  header {
+    padding: 6rem 0;
+  }
+
+  header h2 {
+    margin-top: 0.5rem;
+    font-weight: 400;
+    font-size: 1.1rem;
+  }
+
+  #output {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0.5rem;
+  }
+
   table {
-    border-radius: 0;
     border: 0;
   }
 
