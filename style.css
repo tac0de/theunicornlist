@@ -8,8 +8,7 @@ body {
 }
 
 #output {
-  margin-top: 20px;
-  max-width: 1024px;
+  max-width: 992px;
 }
 
 table {
@@ -33,30 +32,33 @@ table thead tr th:not(:last-child) {
   width: 120px;
 }
 
-/* table thead tr th:nth-child(2) {
-
+table thead tr th:last-child {
+  width: 180px;
 }
-
-table thead tr th:nth-child(3) {
-  width: 120px;
-} */
 
 table th,
 table td {
-  padding: 12px 15px;
+  padding: 10px 12px;
   text-align: left;
 }
 
 table td {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 table th {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   text-transform: uppercase;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 992px) {
+  table th,
+  table td {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 768px) {
   table {
     border-radius: 0;
     border: 0;
