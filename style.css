@@ -16,7 +16,6 @@ table {
   font-size: 0.9rem;
   border-radius: 5px 5px;
   overflow: hidden;
-  /* width: 100%; */
   border-collapse: collapse;
   table-layout: fixed;
 }
@@ -29,6 +28,18 @@ table tr {
 table thead tr {
   background-color: yellow;
 }
+
+table thead tr th:not(:last-child) {
+  width: 120px;
+}
+
+/* table thead tr th:nth-child(2) {
+
+}
+
+table thead tr th:nth-child(3) {
+  width: 120px;
+} */
 
 table th,
 table td {
