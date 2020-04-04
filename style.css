@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 
 *,
@@ -10,10 +10,20 @@
 }
 
 header {
+  position: relative;
   text-align: center;
   background: #3930c6;
-  padding: 10rem 0;
+  padding: 8rem 0;
   color: white;
+}
+
+header p {
+  margin-top: 5rem;
+  text-align: center;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 0.8rem;
+  opacity: 0.8;
 }
 
 .title {
@@ -45,6 +55,7 @@ section.description h2 {
 }
 
 section.description p {
+  line-height: 1.8;
   font-size: 1.2rem;
   opacity: 0.8;
 }
@@ -59,6 +70,7 @@ body {
 #output {
   max-width: 992px;
   margin: 0 auto;
+  padding: 0 0.5rem;
 }
 
 table {
@@ -104,6 +116,14 @@ table th {
   text-transform: uppercase;
 }
 
+footer {
+  text-align: center;
+  margin-top: 5rem;
+  padding: 2.5rem 0;
+  background: #000;
+  color: #fff;
+}
+
 @media (max-width: 992px) {
   table th,
   table td {
@@ -112,12 +132,25 @@ table th {
 }
 
 @media (max-width: 768px) {
+  body {
+    background: #161616;
+  }
+
+  footer {
+    background: white;
+    color: #000;
+  }
+
+  section.description {
+    color: white;
+  }
+
   .title {
     font-size: 3.2rem;
   }
 
   header {
-    padding: 6rem 0;
+    padding: 5rem 0;
   }
 
   header h2 {
@@ -130,7 +163,6 @@ table th {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 0.5rem;
   }
 
   table {
