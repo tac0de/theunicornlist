@@ -1,5 +1,8 @@
 body {
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: sans-serif;
   background-color: #161616;
 }
@@ -7,15 +10,14 @@ body {
 #output {
   margin-top: 20px;
   max-width: 1024px;
-  margin: 0 auto;
 }
 
 table {
   font-size: 0.9rem;
   border-radius: 5px 5px;
   overflow: hidden;
+  /* width: 100%; */
   border-collapse: collapse;
-
   table-layout: fixed;
 }
 
@@ -35,15 +37,15 @@ table td {
 }
 
 table td {
-  font-size: 1.6vw;
+  font-size: 1rem;
 }
 
 table th {
-  font-size: 0.85em;
+  font-size: 0.85rem;
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 600px) {
   table {
     border-radius: 0;
     border: 0;
