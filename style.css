@@ -117,10 +117,30 @@ table th {
 }
 
 footer {
-  text-align: center;
   margin-top: 5rem;
   padding: 2.5rem 0;
   background: #000;
+  color: #fff;
+}
+
+footer .footer-info {
+  margin: 0 auto;
+  max-width: 992px;
+  padding: 0 0.5rem;
+}
+
+footer::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.copyright {
+  float: left;
+}
+
+.privacy-policy {
+  float: right;
   color: #fff;
 }
 
@@ -138,6 +158,10 @@ footer {
 
   footer {
     background: white;
+    color: #000;
+  }
+
+  .privacy-policy {
     color: #000;
   }
 
